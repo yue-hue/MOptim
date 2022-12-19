@@ -1,0 +1,4 @@
+﻿  MOptim_4.cpp
+C:\Users\mikyy\source\repos\MOptim_4\MOptim_4\MOptim_4\MOptim_4.cpp(138,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\mikyy\source\repos\MOptim_4\MOptim_4\MOptim_4\MOptim_4.cpp(129,6): warning C4101: temp: неиспользованная локальная переменная
+  MOptim_4.vcxproj -> C:\Users\mikyy\source\repos\MOptim_4\MOptim_4\x64\Debug\MOptim_4.exe
